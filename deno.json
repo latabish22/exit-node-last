@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net exit_node.ts"
+  },
+  "imports": {}
+}
